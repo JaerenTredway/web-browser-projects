@@ -1,0 +1,37 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Dark Grey to Neon Two",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(73, 84, 81)",
+      "toolbar_text": "rgb(64, 212, 184)",
+      "frame": "rgb(42, 49, 48)",
+      "tab_background_text": "rgb(121, 163, 152)",
+      "toolbar_field": "rgb(4, 44, 36)",
+      "toolbar_field_text": "rgb(4, 250, 204)",
+      "tab_line": "rgb(4, 250, 204)",
+      "popup": "rgb(52, 65, 62)",
+      "popup_text": "rgb(64, 212, 184)",
+      "tab_loading": "rgb(4, 250, 204)",
+      "ntp_background": "rgb(42, 49, 48)",
+      "ntp_text": "rgb(64, 212, 184)",
+      "sidebar": "rgb(42, 49, 48)",
+      "sidebar_text": "rgb(64, 212, 184)",
+      "sidebar_border": "rgb(4, 250, 204)"
+    }
+  }
+}
